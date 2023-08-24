@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="width:100%;height:100%"  viewBox="0 0 1080 1080" >
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="1191adb2-eea8-4a36-af6e-50e004884879"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="17dd1e04-8ce0-4943-878b-411d067ea43d"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4;  fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" fill="black" />
+</g>
+<g transform="matrix(2.36 0 0 2.36 154.02 851.49)" id="12969252-ebb5-4d5c-b61f-ba841de43b7d"  >
+<polygon id="meja_1" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4;  fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" fill="rgb(223,216,214)" points="-18.54,32.11 -37.08,0 -18.54,-32.11 18.54,-32.11 37.08,0 18.54,32.11 " onclick="click_meja('meja_1')"/>
+</g>
+<g transform="matrix(2.36 0 0 2.36 156.39 664.02)"  >
+<polygon id="meja_2" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4;  fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-18.54,32.11 -37.08,0 -18.54,-32.11 18.54,-32.11 37.08,0 18.54,32.11 " fill="rgb(223,216,214)"  onclick="click_meja('meja_2')"/>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(2.36 0 0 2.36 151.13 473.67)"  >
+<polygon id="meja_3" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-18.54,32.11 -37.08,0 -18.54,-32.11 18.54,-32.11 37.08,0 18.54,32.11 " fill="rgb(223,216,214)" onclick="click_meja('meja_3')"/>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(2.36 0 0 2.36 145.86 277.59)"  >
+<polygon id="meja_4" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-18.54,32.11 -37.08,0 -18.54,-32.11 18.54,-32.11 37.08,0 18.54,32.11 " fill="rgb(223,216,214)" onclick="click_meja('meja_4')"/>
+</g>
+<g transform="matrix(10.22 0 0 11.06 612.4 540)" id="d77a1dc2-adee-4c4a-8e64-4ab29996c823"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4;  fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(202,58,27)"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 355.71 799.61)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_5" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_5')"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 356.17 630.25)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_6" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_6')"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 360.45 466.6)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_7" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_7')"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 360.91 293.42)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_8" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_8')"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 475.85 290.06)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_12" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_12')"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 476.32 466.07)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_11" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_11')"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 478.68 632.53)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_10" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_10')"/>
+</g>
+<g transform="matrix(1.37 0 0 2.1 469.6 799)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_9" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_9')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 607.98 262.37)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_17" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_17')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 606.53 411.58)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_16" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_16')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 608.9 555.16)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_15" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_15')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 611.26 693)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_14" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_14')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 611.73 821.29)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_13" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_13')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 736.28 266.57)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_22" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_22')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 736.74 413.95)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_21" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_21')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 735.3 555.61)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_20" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_20')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 741.48 695.36)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_19" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_19')"/>
+</g>
+<g transform="matrix(1.37 0 0 1.42 741.94 823.67)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect id="meja_18" style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"   x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" fill="rgb(223,216,214)" onclick="click_meja('meja_18')"/>
+</g>
+<g transform="matrix(1.37 0 0 9.53 873.14 541.73)" id="0ddc0be6-380f-47ce-8d81-e7ff7a1037dd"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(1 0 0 1 152.24 853.52)" style="" id="ac66314f-d0f5-4177-8e1a-a7c0dda8f88b"  onclick="click_meja('meja_1')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57"  id="huruf_1">1</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 154.44 663.08)" style=""  onclick="click_meja('meja_2')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_2">2</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 152.99 474.63)" style=""  onclick="click_meja('meja_3')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_3">3</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 147.72 284.28)" style=""  onclick="click_meja('meja_4')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_4">4</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 356.17 801.84)" style=""  onclick="click_meja('meja_5')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_5">5</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 356.63 626.75)" style=""  onclick="click_meja('meja_6')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_6">6</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 360.91 461.2)" style=""  onclick="click_meja('meja_7')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_7">7</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 363.28 297.56)" style=""  onclick="click_meja('meja_8')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_8">8</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 468.69 799.86)" style=""  onclick="click_meja('meja_9')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.6" y="12.57" id="huruf_9">9</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 471.06 622.86)" style="" onclick="click_meja('meja_10')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_10">10</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 473.43 463.04)" style=""  onclick="click_meja('meja_11')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_11">11</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 475.8 299.4)" style=""  onclick="click_meja('meja_12')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_12">12</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 614.17 825.13)" style=""  onclick="click_meja('meja_13')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_13">13</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 608.9 695.83)" style=""  onclick="click_meja('meja_14')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_14">14</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 607 556.53)" style="" onclick="click_meja('meja_15')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_15">15</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 607.46 411.98)" style="" onclick="click_meja('meja_16')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_16">16</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 609.83 269.33)" style="" onclick="click_meja('meja_17')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_17">17</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 740.57 825.59)" style=""  onclick="click_meja('meja_18')">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_18">18</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 741.02 696.29)" style="" onclick="click_meja('meja_19')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_19">19</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 737.21 558.9)" style="" onclick="click_meja('meja_20')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_20">20</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 733.86 418.16)" style="" onclick="click_meja('meja_21')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_21">21</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 731.95 273.15)" style="" onclick="click_meja('meja_22')" >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: black; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="12.57" id="huruf_22">22</tspan></text>
+</g>
+<g transform="matrix(0 -1 1 0 873.61 540)" style=""  >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: white; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-39.42" y="12.57" id="bar">BAR</tspan></text>
+</g>
+<script>
+	function click_meja(id){
+		console.log(id)
+		messageHandler.postMessage(id);
+	}
+</script>
+</svg>
+
