@@ -4,12 +4,14 @@ const dotenv = require('dotenv');
 const fs = require('fs');
 const mysql = require('mysql');
 dotenv.config();
-const io_socket = require('socket.io-client');
 
 const path = require('path');
 // const fs = require('fs');
 
-const socket = io_socket(process.env.URL + ":" + process.env.PORT);
+const socket = require('../socket');
+const io = socket.getIO();
+const the_socket = io.sockets;
+
 
 // Load environment variables from .env file
 
@@ -166,7 +168,8 @@ router.post('/reservation/:id_meja', (req, res) => {
             } else {
                 // Return the user object
                 console.log("success delete data menjadi tersedia");
-                socket.emit('table', {});
+                // socket.emit('table', {});
+                io.emit('table_admin', {});
                 return res.status(200).json({ message: 'success', bool: true, data: results });
             }
         })
@@ -191,7 +194,8 @@ router.post('/reservation/:id_meja', (req, res) => {
                         return res.status(500).json({ message: 'Internal server error' });
                     } else {
                         // Return the user object
-                        socket.emit('table', {});
+                        // socket.emit('table', {});
+                        io.emit('table_admin', {});
                         console.log("success update data");
                         return res.status(200).json({ message: 'success', bool: true, data: results });
                     }
@@ -207,7 +211,8 @@ router.post('/reservation/:id_meja', (req, res) => {
                         return res.status(500).json({ message: 'Internal server error' });
                     } else {
                         // Return the user object
-                        socket.emit('table', {});
+                        // socket.emit('table', {});
+                        io.emit('table_admin', {});
                         console.log("success insert data");
                         return res.status(200).json({ message: 'success', bool: true, data: results });
                     }

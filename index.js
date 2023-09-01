@@ -1,6 +1,7 @@
 const express = require('express');
 const http = require('http');
-const socketIO = require('socket.io');
+// const socketIO = require('socket.io');
+const socket = require('./socket');
 const cors = require('cors');
 const formData = require('express-form-data');
 const dotenv = require('dotenv');
@@ -8,7 +9,7 @@ const fileUpload = require('express-fileupload');
 const mysql = require('mysql');
 const app = express();
 const server = http.createServer(app);
-const io = socketIO(server);
+const io = socket.init(server);
 
 // Load environment variables from .env file
 dotenv.config();
@@ -66,7 +67,11 @@ io.on('connection', (socket) => {
     console.log('A user disconnected');
   });
 });
-
+module.exports = {
+  app,
+  server,
+  io
+};
 // // Connect to the MySQL database
 // const connection = mysql.createConnection({
 //   host: process.env.DB_HOST,
@@ -88,3 +93,4 @@ const port = process.env.PORT || 3000;
 server.listen(port, () => {
   console.log(`Server started on port ${port}`);
 });
+
